@@ -1,0 +1,24 @@
+ body{
+    font-family: Verdana;
+    background: gray;
+    margin:18px;
+ }
+ #paleta{
+    display:flex;
+    flex-wrap:wrap;
+    justify-content: space-between;
+    gap:20px;
+    background: blue;
+    padding: 22px 36px;
+    border: 1px solid black;
+    border-radius: 14px;
+ }
+ .cor{
+    width: 80px;
+    height: 250px;
+    padding: 12px;
+    display:flex;
+    align-items: flex-end;
+    font:12px verdana;
+    border-radius: 8px;
+ }
